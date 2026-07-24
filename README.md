@@ -1,4 +1,4 @@
-## Hi，I'm BlueBlueblues
+## Hi，I'm BlueBlueblues👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&height=60&lines=%E9%82%A3%E5%B0%B1%E4%BB%8E%E7%8E%B0%E5%9C%A8%EF%BC%8C%E4%BB%8E%E8%BF%99%E9%87%8C%E5%BC%80%E5%A7%8B%EF%BC%8C%E4%BB%8E%E4%B8%80%E5%BC%80%E5%A7%8B%EF%BC%8C%E4%B8%8D%EF%BC%8C%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B;something+for+nothing)](https://git.io/typing-svg)
 
