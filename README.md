@@ -14,6 +14,6 @@
 
 </div>
 
-![背景](image/背景.jpg)
+![背景](image/背景.png)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=BlueBlueblues.
