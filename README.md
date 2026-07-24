@@ -1,6 +1,6 @@
 ## Hi，I'm BlueBlueblues
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=那就从现在，从这里开始，从一开始，不，从零开始;something for nothing)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=那就从现在，从这里开始，从一开始，不，从零开始;something for nothing)<br>
 
 <div id="title" align=center>
 
